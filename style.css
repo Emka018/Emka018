@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: #f3f3f3;
+  background: #a79d95;
   margin: 0;
   padding: 20px;
   text-align: center;
@@ -8,7 +8,7 @@ body {
 
 h1 {
   color: #333;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .animal-list {
