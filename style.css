@@ -24,6 +24,7 @@ h1 {
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   width: 250px;
   padding: 15px;
+
 }
 
 .card img {
@@ -32,7 +33,7 @@ h1 {
 }
 
 .card h2 {
-  color: #444;
+  color: #242424;
   margin-top: 10px;
 }
 
