@@ -21,7 +21,7 @@ h1 {
 .card {
   background: white;
   border-radius: 5px;
-  box-shadow: 4px 10px;
+  box-shadow: 0 4px 10px;
   width: 250px;
   padding: 15px;
 
